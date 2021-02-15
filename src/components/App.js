@@ -15,7 +15,6 @@ const App = () => {
   return (
     <div className="Clock">
       <h3 id="time">{timer}</h3>
-      {timer}
     </div>
   );
 };
